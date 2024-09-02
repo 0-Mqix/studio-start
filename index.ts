@@ -94,5 +94,5 @@ try {
 
 	server.listen(3025)
 } catch (error) {
-	console.log(chalk.redBright("[ERROR]") + "an unkown error has occured")
+	console.log(chalk.redBright("[ERROR]") + " an unkown error has occured")
 }
